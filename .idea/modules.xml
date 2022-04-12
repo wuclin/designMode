@@ -3,9 +3,13 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Creator/AbstractFactory/AbstractFactory.iml" filepath="$PROJECT_DIR$/Creator/AbstractFactory/AbstractFactory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Action/Action.iml" filepath="$PROJECT_DIR$/Action/Action.iml" />
       <module fileurl="file://$PROJECT_DIR$/Creator/Builder/Builder.iml" filepath="$PROJECT_DIR$/Creator/Builder/Builder.iml" />
       <module fileurl="file://$PROJECT_DIR$/Creator/Creator.iml" filepath="$PROJECT_DIR$/Creator/Creator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Creator/DynastyProxy/DynastyProxy.iml" filepath="$PROJECT_DIR$/Creator/DynastyProxy/DynastyProxy.iml" />
       <module fileurl="file://$PROJECT_DIR$/Creator/FactoryMethod/FactoryMethod.iml" filepath="$PROJECT_DIR$/Creator/FactoryMethod/FactoryMethod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Creator/StaticProxy/StaticProxy.iml" filepath="$PROJECT_DIR$/Creator/StaticProxy/StaticProxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Action/Strategy/Strategy.iml" filepath="$PROJECT_DIR$/Action/Strategy/Strategy.iml" />
     </modules>
   </component>
 </project>

@@ -1,4 +1,3 @@
-package PACKAGE_NAME;
-
-public class people {
+public interface people {
+    void eat();
 }
